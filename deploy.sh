@@ -15,7 +15,7 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:lishuangg/vue.git master:gh-pages
+git push -f git@github.com:lishuangg/wangyi.git master:gh-pages
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
